@@ -1,7 +1,7 @@
 # OS generated files #
 ######################
+data/*
 data/
-
 Depuración procesamiento.ipynb
 
 .DS_Store*
